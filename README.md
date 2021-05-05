@@ -1,7 +1,7 @@
 # a0-classroom
 A repository to practice github steps.
 
-Author: Yves Pauchard
+Author: Bhavyai Gupta
 
 # What to do
 1. Clone this repository to your local computer.
@@ -19,5 +19,4 @@ Note that `README.md` is a markdown file. Special syntax takes care of formattin
 # How to run the program
 The Java program `src/HelloWOrld.java` greets the world. To run from command line, first compile with `javac -sourcepath src/ -d bin/ src/HelloWorld.java` and run with `java -cp bin/ HelloWorld`. See screenshot below for an example terminal session.
 
-Alternatively, in Eclipse, right-click on `HelloWorld.java` in the `Package Explorer` and select `Run As->Java Application`.
 ![Example screenshot](screenshot.png)

@@ -1,12 +1,12 @@
 /**
- * @author Your Name
+ * @author Bhavyai Gupta
  *
  */
 public class HelloWorld {
 
 	public static void main(String[] args) {
 		//TODO: Change to greet you instead of the world.
-		System.out.println("Hello World!");
+		System.out.println("Hello Bhavyai!");
 		
 		System.out.println("Java version is : " + System.getProperty("java.version"));
 
